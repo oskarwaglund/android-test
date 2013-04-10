@@ -7,6 +7,12 @@ public class Boat {
 	public Boat() {
 		boat = 8;
 	}
-	//asdada
+	
+	public Boat(int a) {
+		boat = a;
+	}
+	public int getboat() {
+		return boat;
+	}
 	
 }
