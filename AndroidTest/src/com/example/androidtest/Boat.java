@@ -18,8 +18,4 @@ public class Boat {
 	public void setBoat(int boat){
 		this.boat = boat;
 	}
-	
-	public int getBoat(){
-		return boat; //lol
-	}
 }
