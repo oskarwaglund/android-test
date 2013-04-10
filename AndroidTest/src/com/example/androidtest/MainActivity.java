@@ -11,11 +11,8 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		//Hello sol
-<<<<<<< HEAD
 		//uhm assssssssssssssssssssssssŒ
 		//uhm
-=======
->>>>>>> branch 'master' of https://github.com/oskarwaglund/android-test.git
 	}
 
 	@Override
