@@ -20,6 +20,6 @@ public class Boat {
 	}
 	
 	public int getBoat(){
-		return boat;
+		return boat; //lol
 	}
 }
