@@ -7,5 +7,6 @@ public class Boat {
 	public Boat() {
 		boat = 8;
 	}
+	//asdada
 	
 }
