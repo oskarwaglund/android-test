@@ -7,7 +7,13 @@ public class Boat {
 	public Boat() {
 		boat = 8;
 	}
-	//asdada
+	
+	public Boat(int a) {
+		boat = a;
+	}
+	public int getboat() {
+		return boat;
+	}
 	
 	public void setBoat(int boat){
 		this.boat = boat;
