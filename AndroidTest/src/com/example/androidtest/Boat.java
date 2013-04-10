@@ -9,4 +9,11 @@ public class Boat {
 	}
 	//asdada
 	
+	public void setBoat(int boat){
+		this.boat = boat;
+	}
+	
+	public int getBoat(){
+		return boat;
+	}
 }
